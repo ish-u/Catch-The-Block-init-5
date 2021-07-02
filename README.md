@@ -5,9 +5,9 @@ I used the Mediapipe Library for Hand Tracking in OpenCV and used the Co-Ordinat
 
 ## Demo
 
-![img](demo/Catch.jpg)
+![img](demo/Catch.JPG)
 
-![img2](demo/Catch2.jpg)
+![img2](demo/Catch2.JPG)
 
 ![img3](demo/demo.gif)
 
